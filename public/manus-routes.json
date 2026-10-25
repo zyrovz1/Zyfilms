@@ -1,0 +1,15 @@
+{
+  "routes": [
+    { "path": "/", "title": "Início" },
+    { "path": "/filmes", "title": "Filmes" },
+    { "path": "/series", "title": "Séries" },
+    { "path": "/generos", "title": "Gêneros" },
+    { "path": "/minha-lista", "title": "Minha Lista" },
+    { "path": "/detalhes/:id", "title": "Detalhes do título" },
+    { "path": "/assistir/:id", "title": "Player" },
+    { "path": "/login", "title": "Entrar" },
+    { "path": "/cadastro", "title": "Criar conta" },
+    { "path": "/privacidade", "title": "Privacidade" },
+    { "path": "/termos", "title": "Termos de uso" }
+  ]
+}
